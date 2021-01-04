@@ -1,0 +1,10 @@
+*.ipr
+*.iws
+*.iml
+.idea
+cache
+fig.yml.sample
+releases
+.DS_Store
+config
+.env
