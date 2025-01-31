@@ -1,6 +1,6 @@
 # sdg-mrs-docker
 Repository for the SDG MRS Docker files
-Docker image for ethiopia MRS sdg.  
+Docker image for Central MRS sdg.  
 database directory contains resources to build a database image from sql file  
 conf directory contains dhis2 database configuration details
 
